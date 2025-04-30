@@ -1,4 +1,4 @@
-## EXP NO 6A : C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
+## EXP NO 12 : C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 
 ## Aim:
 To write a C program to display stack elements using linked list.
